@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hira-iqbal
-- 👀 I’m Associate Ruby Engineer
+- 👀 I’m Associate Ruby and React Engineer
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on great ideas
 - 📫 @hira-iqbal
